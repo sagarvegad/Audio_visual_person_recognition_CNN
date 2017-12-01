@@ -11,5 +11,7 @@ We passed these images to a CNN for feature extraction and then to fully connect
 
 ![image](https://user-images.githubusercontent.com/10357045/33491510-867c9f80-d6e0-11e7-85a5-31fac04b15f8.jpeg)
 
+Will add the person recognition using audio signals and the fusion of both of these models soon!!
+
 
 
